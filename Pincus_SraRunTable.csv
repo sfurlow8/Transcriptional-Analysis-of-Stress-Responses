@@ -1,0 +1,392 @@
+Run,Genotype,kinase_inhibitor,media,perturbation,stress
+SRR7287619,WT,None,YPD,10mM,Azetidine
+SRR7287626,WT,Cocktail,YPD,250 ug/ml,Fluconazole
+SRR7287629,WT,Cocktail,YPD,250 ug/ml,Fluconazole
+SRR7287630,WT,None,YPD,250 ug/ml,Fluconazole
+SRR7287632,WT,None,YPD,250 ug/ml,Fluconazole
+SRR7287633,WT,None,YPD,250 ug/ml,Fluconazole
+SRR7287634,WT,Cocktail,YPD,YPsorbitol (2.02%),Glucose_Dropout
+SRR7287638,WT,None,YPD,YPsorbitol (2.02%),Glucose_Dropout
+SRR7287639,WT,None,YPD,YPsorbitol (2.02%),Glucose_Dropout
+SRR7287641,WT,None,YPD,YPsorbitol (2.02%),Glucose_Dropout
+SRR7287643,WT,Cocktail,YPD,39 Degrees,Heatshock
+SRR7287645,WT,Cocktail,YPD,39 Degrees,Heatshock
+SRR7287648,WT,None,YPD,39 Degrees,Heatshock
+SRR7287651,WT,Cocktail,YPD,250 uM,Menadione
+SRR7287652,WT,Cocktail,YPD,250 uM,Menadione
+SRR7287656,WT,None,YPD,250 uM,Menadione
+SRR7287657,WT,None,YPD,250 uM,Menadione
+SRR7287660,WT,None,YPD,NA,None
+SRR7287663,WT,Cocktail,YPD,NA,None
+SRR7287664,WT,Cocktail,YPD,NA,None
+SRR7287665,WT,Cocktail,YPD,NA,None
+SRR7287672,WT,Cocktail,YPD,1 ug/ml,Rapamycin
+SRR7287674,WT,None,YPD,0.5 M,Salt
+SRR7287676,WT,None,YPD,0.5 M,Salt
+SRR7287677,WT,None,YPD,0.5 M,Salt
+SRR7287678,WT,Cocktail,YPD,0.5 M,Salt
+SRR7287679,WT,Cocktail,YPD,0.5 M,Salt
+SRR7287681,WT,Cocktail,YPD,0.5 M,Salt
+SRR7287683,WT,None,YPD,5 ug/ml,Tunicamycin
+SRR7287685,WT,None,YPD,5 ug/ml,Tunicamycin
+SRR7287686,WT,Cocktail,YPD,5 ug/ml,Tunicamycin
+SRR7287689,WT,Cocktail,YPD,5 ug/ml,Tunicamycin
+SRR7287692,WT,None,SDC,NA,None
+SRR7287693,WT,None,SDC,NA,None
+SRR7287697,ATG1-as,Cocktail,YPD,10mM,Azetidine
+SRR7287698,ATG1-as,Cocktail,YPD,250 ug/ml,Fluconazole
+SRR7287699,ATG1-as,Cocktail,YPD,YPsorbitol (2.02%),Glucose_Dropout
+SRR7287702,ATG1-as,None,YPD,NA,None
+SRR7287704,ATG1-as,Cocktail,YPD,1 ug/ml,Rapamycin
+SRR7287705,ATG1-as,Cocktail,YPD,0.5 M,Salt
+SRR7287708,CDC15-as,Cocktail,YPD,10mM,Azetidine
+SRR7287709,CDC15-as,Cocktail,YPD,250 ug/ml,Fluconazole
+SRR7287712,CDC15-as,Cocktail,YPD,250 uM,Menadione
+SRR7287714,CDC15-as,Cocktail,YPD,1 ug/ml,Rapamycin
+SRR7287717,CDC15-as,None,SDC,NA,None
+SRR7287731,CDC7-as,Cocktail,YPD,250 ug/ml,Fluconazole
+SRR7287732,CDC7-as,Cocktail,YPD,YPsorbitol (2.02%),Glucose_Dropout
+SRR7287733,CDC7-as,Cocktail,YPD,39 Degrees,Heatshock
+SRR7287735,CDC7-as,None,YPD,NA,None
+SRR7287736,CDC7-as,Cocktail,YPD,NA,None
+SRR7287739,CDC7-as,Cocktail,YPD,5 ug/ml,Tunicamycin
+SRR7287740,CDC7-as,None,SDC,NA,None
+SRR7287748,CTK1-as,Cocktail,YPD,NA,None
+SRR7287752,CTK1-as,None,SDC,NA,None
+SRR7287756,FUS3-as,Cocktail,YPD,YPsorbitol (2.02%),Glucose_Dropout
+SRR7287761,FUS3-as,Cocktail,YPD,1 ug/ml,Rapamycin
+SRR7287765,HOG1-as,Cocktail,YPD,10mM,Azetidine
+SRR7287788,KIN1-as,Cocktail,YPD,250 ug/ml,Fluconazole
+SRR7287789,KIN1-as,Cocktail,YPD,YPsorbitol (2.02%),Glucose_Dropout
+SRR7287790,KIN1-as,Cocktail,YPD,39 Degrees,Heatshock
+SRR7287791,KIN1-as,Cocktail,YPD,250 uM,Menadione
+SRR7287795,KIN1-as,Cocktail,YPD,5 ug/ml,Tunicamycin
+SRR7287802,KSP1-as,Cocktail,YPD,250 uM,Menadione
+SRR7287804,KSP1-as,Cocktail,YPD,NA,None
+SRR7287807,KSP1-as,Cocktail,YPD,5 ug/ml,Tunicamycin
+SRR7287808,KSP1-as,None,SDC,NA,None
+SRR7287812,KSS1-as,Cocktail,YPD,YPsorbitol (2.02%),Glucose_Dropout
+SRR7287813,KSS1-as,Cocktail,YPD,39 Degrees,Heatshock
+SRR7287816,KSS1-as,Cocktail,YPD,1 ug/ml,Rapamycin
+SRR7287825,MRK1-as,Cocktail,YPD,NA,None
+SRR7287826,MRK1-as,Cocktail,YPD,1 ug/ml,Rapamycin
+SRR7287827,MRK1-as,Cocktail,YPD,0.5 M,Salt
+SRR7287830,PBS2-as,Cocktail,YPD,10mM,Azetidine
+SRR7287831,PBS2-as,Cocktail,YPD,250 ug/ml,Fluconazole
+SRR7287843,PHO85-as,Cocktail,YPD,250 ug/ml,Fluconazole
+SRR7287845,PHO85-as,Cocktail,YPD,250 uM,Menadione
+SRR7287848,PHO85-as,Cocktail,YPD,1 ug/ml,Rapamycin
+SRR7287851,PHO85-as,None,SDC,NA,None
+SRR7287852,PHO85-as,Cocktail,SDC,NA,None
+SRR7287860,PKC1-as,Cocktail,YPD,1 ug/ml,Rapamycin
+SRR7287863,PKC1-as,None,SDC,NA,None
+SRR7287865,RIM11-as,Cocktail,YPD,250 ug/ml,Fluconazole
+SRR7287867,RIM11-as,Cocktail,YPD,39 Degrees,Heatshock
+SRR7287873,RIM11-as,Cocktail,YPD,5 ug/ml,Tunicamycin
+SRR7287874,RIM11-as,None,SDC,NA,None
+SRR7287877,RIM15-as,Cocktail,YPD,YPsorbitol (2.02%),Glucose_Dropout
+SRR7287884,RIM15-as,Cocktail,YPD,5 ug/ml,Tunicamycin
+SRR7287888,SCH9-as,Cocktail,YPD,250 ug/ml,Fluconazole
+SRR7287889,SCH9-as,Cocktail,YPD,39 Degrees,Heatshock
+SRR7287895,SCH9-as,None,SDC,NA,None
+SRR7287901,SLT2-as,None,YPD,NA,None
+SRR7287902,SLT2-as,Cocktail,YPD,NA,None
+SRR7287908,SNF1-as,Cocktail,YPD,10mM,Azetidine
+SRR7287909,SNF1-as,Cocktail,YPD,250 ug/ml,Fluconazole
+SRR7287910,SNF1-as,Cocktail,YPD,YPsorbitol (2.02%),Glucose_Dropout
+SRR7287917,SNF1-as,Cocktail,YPD,5 ug/ml,Tunicamycin
+SRR7287939,STE11-as,Cocktail,YPD,0.5 M,Salt
+SRR7287940,STE11-as,Cocktail,YPD,5 ug/ml,Tunicamycin
+SRR7287945,TOR2-as,Cocktail,YPD,YPsorbitol (2.02%),Glucose_Dropout
+SRR7287946,TOR2-as,Cocktail,YPD,39 Degrees,Heatshock
+SRR7287948,TOR2-as,None,YPD,NA,None
+SRR7287961,TPK123-as,Cocktail,YPD,0.5 M,Salt
+SRR7287962,TPK123-as,Cocktail,YPD,5 ug/ml,Tunicamycin
+SRR7287963,TPK123-as,None,SDC,NA,None
+SRR7287965,YAK1-as,Cocktail,YPD,250 ug/ml,Fluconazole
+SRR7287967,YAK1-as,Cocktail,YPD,39 Degrees,Heatshock
+SRR7287972,YAK1-as,Cocktail,YPD,0.5 M,Salt
+SRR7287973,YAK1-as,Cocktail,YPD,5 ug/ml,Tunicamycin
+SRR7287976,YGK3-as,Cocktail,YPD,250 ug/ml,Fluconazole
+SRR7287978,YGK3-as,Cocktail,YPD,39 Degrees,Heatshock
+SRR7287979,YGK3-as,Cocktail,YPD,250 uM,Menadione
+SRR7287981,YGK3-as,Cocktail,YPD,NA,None
+SRR7287987,YPK1-as,Cocktail,YPD,10mM,Azetidine
+SRR7287988,YPK1-as,Cocktail,YPD,250 ug/ml,Fluconazole
+SRR7287994,YPK1-as,Cocktail,YPD,1 ug/ml,Rapamycin
+SRR7287995,YPK1-as,Cocktail,YPD,5 ug/ml,Tunicamycin
+SRR7288005,YPK3-as,Cocktail,YPD,0.5 M,Salt
+SRR7288007,YPK3-as,Cocktail,SDC,NA,None
+SRR7288008,YPK3-as,None,SDC,NA,None
+SRR7287618,WT,None,YPD,10mM,Azetidine
+SRR7287620,WT,None,YPD,10mM,Azetidine
+SRR7287622,WT,Cocktail,YPD,10mM,Azetidine
+SRR7287625,WT,Cocktail,YPD,10mM,Azetidine
+SRR7287627,WT,Cocktail,YPD,250 ug/ml,Fluconazole
+SRR7287637,WT,Cocktail,YPD,YPsorbitol (2.02%),Glucose_Dropout
+SRR7287640,WT,None,YPD,YPsorbitol (2.02%),Glucose_Dropout
+SRR7287642,WT,Cocktail,YPD,39 Degrees,Heatshock
+SRR7287644,WT,Cocktail,YPD,39 Degrees,Heatshock
+SRR7287649,WT,None,YPD,39 Degrees,Heatshock
+SRR7287650,WT,Cocktail,YPD,250 uM,Menadione
+SRR7287653,WT,Cocktail,YPD,250 uM,Menadione
+SRR7287654,WT,None,YPD,250 uM,Menadione
+SRR7287655,WT,None,YPD,250 uM,Menadione
+SRR7287659,WT,None,YPD,NA,None
+SRR7287666,WT,None,YPD,1 ug/ml,Rapamycin
+SRR7287668,WT,None,YPD,1 ug/ml,Rapamycin
+SRR7287669,WT,None,YPD,1 ug/ml,Rapamycin
+SRR7287671,WT,Cocktail,YPD,1 ug/ml,Rapamycin
+SRR7287673,WT,Cocktail,YPD,1 ug/ml,Rapamycin
+SRR7287687,WT,Cocktail,YPD,5 ug/ml,Tunicamycin
+SRR7287691,WT,Cocktail,SDC,NA,None
+SRR7287696,WT,Cocktail,SDC,NA,None
+SRR7287701,ATG1-as,Cocktail,YPD,250 uM,Menadione
+SRR7287703,ATG1-as,Cocktail,YPD,NA,None
+SRR7287706,ATG1-as,Cocktail,YPD,5 ug/ml,Tunicamycin
+SRR7287707,ATG1-as,None,SDC,NA,None
+SRR7287711,CDC15-as,Cocktail,YPD,39 Degrees,Heatshock
+SRR7287713,CDC15-as,None,YPD,NA,None
+SRR7287716,CDC15-as,Cocktail,YPD,5 ug/ml,Tunicamycin
+SRR7287718,CDC5-as,Cocktail,YPD,10mM,Azetidine
+SRR7287721,CDC5-as,Cocktail,YPD,39 Degrees,Heatshock
+SRR7287722,CDC5-as,Cocktail,YPD,250 uM,Menadione
+SRR7287723,CDC5-as,None,YPD,NA,None
+SRR7287724,CDC5-as,Cocktail,YPD,NA,None
+SRR7287727,CDC5-as,Cocktail,YPD,5 ug/ml,Tunicamycin
+SRR7287728,CDC5-as,None,SDC,NA,None
+SRR7287729,CDC5-as,Cocktail,SDC,NA,None
+SRR7287734,CDC7-as,Cocktail,YPD,250 uM,Menadione
+SRR7287742,CTK1-as,Cocktail,YPD,10mM,Azetidine
+SRR7287743,CTK1-as,Cocktail,YPD,250 ug/ml,Fluconazole
+SRR7287746,CTK1-as,Cocktail,YPD,250 uM,Menadione
+SRR7287751,CTK1-as,Cocktail,YPD,5 ug/ml,Tunicamycin
+SRR7287753,CTK1-as,Cocktail,SDC,NA,None
+SRR7287754,FUS3-as,Cocktail,YPD,10mM,Azetidine
+SRR7287757,FUS3-as,Cocktail,YPD,39 Degrees,Heatshock
+SRR7287758,FUS3-as,Cocktail,YPD,250 uM,Menadione
+SRR7287759,FUS3-as,None,YPD,NA,None
+SRR7287762,FUS3-as,Cocktail,YPD,0.5 M,Salt
+SRR7287763,FUS3-as,Cocktail,YPD,5 ug/ml,Tunicamycin
+SRR7287764,FUS3-as,Cocktail,SDC,NA,None
+SRR7287767,HOG1-as,Cocktail,YPD,YPsorbitol (2.02%),Glucose_Dropout
+SRR7287769,HOG1-as,Cocktail,YPD,250 uM,Menadione
+SRR7287771,HOG1-as,Cocktail,YPD,NA,None
+SRR7287776,HOG1-as,Cocktail,SDC,NA,None
+SRR7287777,IRE1-as,Cocktail,YPD,10mM,Azetidine
+SRR7287780,IRE1-as,Cocktail,YPD,39 Degrees,Heatshock
+SRR7287783,IRE1-as,Cocktail,YPD,NA,None
+SRR7287784,IRE1-as,Cocktail,YPD,1 ug/ml,Rapamycin
+SRR7287786,IRE1-as,Cocktail,YPD,5 ug/ml,Tunicamycin
+SRR7287792,KIN1-as,None,YPD,NA,None
+SRR7287793,KIN1-as,Cocktail,YPD,NA,None
+SRR7287794,KIN1-as,Cocktail,YPD,1 ug/ml,Rapamycin
+SRR7287799,KSP1-as,Cocktail,YPD,250 ug/ml,Fluconazole
+SRR7287800,KSP1-as,Cocktail,YPD,YPsorbitol (2.02%),Glucose_Dropout
+SRR7287801,KSP1-as,Cocktail,YPD,39 Degrees,Heatshock
+SRR7287805,KSP1-as,Cocktail,YPD,1 ug/ml,Rapamycin
+SRR7287806,KSP1-as,Cocktail,YPD,0.5 M,Salt
+SRR7287814,KSS1-as,Cocktail,YPD,250 uM,Menadione
+SRR7287815,KSS1-as,Cocktail,YPD,NA,None
+SRR7287817,KSS1-as,Cocktail,YPD,0.5 M,Salt
+SRR7287818,KSS1-as,Cocktail,YPD,5 ug/ml,Tunicamycin
+SRR7287819,KSS1-as,Cocktail,SDC,NA,None
+SRR7287821,MRK1-as,Cocktail,YPD,250 ug/ml,Fluconazole
+SRR7287829,MRK1-as,Cocktail,SDC,NA,None
+SRR7287832,PBS2-as,Cocktail,YPD,YPsorbitol (2.02%),Glucose_Dropout
+SRR7287833,PBS2-as,Cocktail,YPD,39 Degrees,Heatshock
+SRR7287835,PBS2-as,None,YPD,NA,None
+SRR7287841,PBS2-as,Cocktail,SDC,NA,None
+SRR7287842,PHO85-as,Cocktail,YPD,10mM,Azetidine
+SRR7287849,PHO85-as,Cocktail,YPD,0.5 M,Salt
+SRR7287850,PHO85-as,Cocktail,YPD,5 ug/ml,Tunicamycin
+SRR7287853,PKC1-as,Cocktail,YPD,10mM,Azetidine
+SRR7287856,PKC1-as,Cocktail,YPD,39 Degrees,Heatshock
+SRR7287858,PKC1-as,None,YPD,NA,None
+SRR7287859,PKC1-as,Cocktail,YPD,NA,None
+SRR7287861,PKC1-as,Cocktail,YPD,0.5 M,Salt
+SRR7287864,RIM11-as,Cocktail,YPD,10mM,Azetidine
+SRR7287866,RIM11-as,Cocktail,YPD,YPsorbitol (2.02%),Glucose_Dropout
+SRR7287868,RIM11-as,Cocktail,YPD,250 uM,Menadione
+SRR7287875,RIM15-as,Cocktail,YPD,10mM,Azetidine
+SRR7287876,RIM15-as,Cocktail,YPD,250 ug/ml,Fluconazole
+SRR7287878,RIM15-as,Cocktail,YPD,39 Degrees,Heatshock
+SRR7287879,RIM15-as,Cocktail,YPD,250 uM,Menadione
+SRR7287882,RIM15-as,Cocktail,YPD,1 ug/ml,Rapamycin
+SRR7287883,RIM15-as,Cocktail,YPD,0.5 M,Salt
+SRR7287885,RIM15-as,None,SDC,NA,None
+SRR7287886,RIM15-as,Cocktail,SDC,NA,None
+SRR7287887,SCH9-as,Cocktail,YPD,10mM,Azetidine
+SRR7287890,SCH9-as,Cocktail,YPD,250 uM,Menadione
+SRR7287892,SCH9-as,Cocktail,YPD,NA,None
+SRR7287893,SCH9-as,Cocktail,YPD,1 ug/ml,Rapamycin
+SRR7287896,SLT2-as,Cocktail,YPD,10mM,Azetidine
+SRR7287897,SLT2-as,Cocktail,YPD,250 ug/ml,Fluconazole
+SRR7287898,SLT2-as,Cocktail,YPD,YPsorbitol (2.02%),Glucose_Dropout
+SRR7287899,SLT2-as,Cocktail,YPD,39 Degrees,Heatshock
+SRR7287912,SNF1-as,Cocktail,YPD,250 uM,Menadione
+SRR7287913,SNF1-as,None,YPD,NA,None
+SRR7287918,SNF1-as,Cocktail,SDC,NA,None
+SRR7287922,SSN3-as,Cocktail,YPD,39 Degrees,Heatshock
+SRR7287923,SSN3-as,Cocktail,YPD,250 uM,Menadione
+SRR7287925,SSN3-as,Cocktail,YPD,NA,None
+SRR7287926,SSN3-as,Cocktail,YPD,1 ug/ml,Rapamycin
+SRR7287929,SSN3-as,Cocktail,SDC,NA,None
+SRR7287930,SSN3-as,None,SDC,NA,None
+SRR7287932,STE11-as,Cocktail,YPD,250 ug/ml,Fluconazole
+SRR7287933,STE11-as,Cocktail,YPD,YPsorbitol (2.02%),Glucose_Dropout
+SRR7287936,STE11-as,None,YPD,NA,None
+SRR7287937,STE11-as,Cocktail,YPD,NA,None
+SRR7287941,STE11-as,Cocktail,SDC,NA,None
+SRR7287943,TOR2-as,Cocktail,YPD,10mM,Azetidine
+SRR7287944,TOR2-as,Cocktail,YPD,250 ug/ml,Fluconazole
+SRR7287947,TOR2-as,Cocktail,YPD,250 uM,Menadione
+SRR7287952,TOR2-as,Cocktail,SDC,NA,None
+SRR7287957,TPK123-as,Cocktail,YPD,250 uM,Menadione
+SRR7287966,YAK1-as,Cocktail,YPD,YPsorbitol (2.02%),Glucose_Dropout
+SRR7287971,YAK1-as,Cocktail,YPD,1 ug/ml,Rapamycin
+SRR7287983,YGK3-as,Cocktail,YPD,0.5 M,Salt
+SRR7287989,YPK1-as,Cocktail,YPD,YPsorbitol (2.02%),Glucose_Dropout
+SRR7287992,YPK1-as,None,YPD,NA,None
+SRR7287996,YPK1-as,None,SDC,NA,None
+SRR7287999,YPK3-as,Cocktail,YPD,YPsorbitol (2.02%),Glucose_Dropout
+SRR7288006,YPK3-as,Cocktail,YPD,5 ug/ml,Tunicamycin
+SRR7287621,WT,None,YPD,10mM,Azetidine
+SRR7287623,WT,Cocktail,YPD,10mM,Azetidine
+SRR7287624,WT,Cocktail,YPD,10mM,Azetidine
+SRR7287628,WT,Cocktail,YPD,250 ug/ml,Fluconazole
+SRR7287631,WT,None,YPD,250 ug/ml,Fluconazole
+SRR7287635,WT,Cocktail,YPD,YPsorbitol (2.02%),Glucose_Dropout
+SRR7287636,WT,Cocktail,YPD,YPsorbitol (2.02%),Glucose_Dropout
+SRR7287646,WT,None,YPD,39 Degrees,Heatshock
+SRR7287647,WT,None,YPD,39 Degrees,Heatshock
+SRR7287658,WT,None,YPD,NA,None
+SRR7287661,WT,None,YPD,NA,None
+SRR7287662,WT,Cocktail,YPD,NA,None
+SRR7287667,WT,None,YPD,1 ug/ml,Rapamycin
+SRR7287670,WT,Cocktail,YPD,1 ug/ml,Rapamycin
+SRR7287675,WT,None,YPD,0.5 M,Salt
+SRR7287680,WT,Cocktail,YPD,0.5 M,Salt
+SRR7287682,WT,None,YPD,5 ug/ml,Tunicamycin
+SRR7287684,WT,None,YPD,5 ug/ml,Tunicamycin
+SRR7287688,WT,Cocktail,YPD,5 ug/ml,Tunicamycin
+SRR7287690,WT,Cocktail,SDC,NA,None
+SRR7287694,WT,None,SDC,NA,None
+SRR7287695,WT,None,SDC,NA,None
+SRR7287700,ATG1-as,Cocktail,YPD,39 Degrees,Heatshock
+SRR7287710,CDC15-as,Cocktail,YPD,YPsorbitol (2.02%),Glucose_Dropout
+SRR7287715,CDC15-as,Cocktail,YPD,0.5 M,Salt
+SRR7287719,CDC5-as,Cocktail,YPD,250 ug/ml,Fluconazole
+SRR7287720,CDC5-as,Cocktail,YPD,YPsorbitol (2.02%),Glucose_Dropout
+SRR7287725,CDC5-as,Cocktail,YPD,1 ug/ml,Rapamycin
+SRR7287726,CDC5-as,Cocktail,YPD,0.5 M,Salt
+SRR7287730,CDC7-as,Cocktail,YPD,10mM,Azetidine
+SRR7287737,CDC7-as,Cocktail,YPD,1 ug/ml,Rapamycin
+SRR7287738,CDC7-as,Cocktail,YPD,0.5 M,Salt
+SRR7287741,CDC7-as,Cocktail,SDC,NA,None
+SRR7287744,CTK1-as,Cocktail,YPD,YPsorbitol (2.02%),Glucose_Dropout
+SRR7287745,CTK1-as,Cocktail,YPD,39 Degrees,Heatshock
+SRR7287747,CTK1-as,None,YPD,NA,None
+SRR7287749,CTK1-as,Cocktail,YPD,1 ug/ml,Rapamycin
+SRR7287750,CTK1-as,Cocktail,YPD,0.5 M,Salt
+SRR7287755,FUS3-as,Cocktail,YPD,250 ug/ml,Fluconazole
+SRR7287760,FUS3-as,Cocktail,YPD,NA,None
+SRR7287766,HOG1-as,Cocktail,YPD,250 ug/ml,Fluconazole
+SRR7287768,HOG1-as,Cocktail,YPD,39 Degrees,Heatshock
+SRR7287770,HOG1-as,None,YPD,NA,None
+SRR7287772,HOG1-as,Cocktail,YPD,1 ug/ml,Rapamycin
+SRR7287773,HOG1-as,Cocktail,YPD,0.5 M,Salt
+SRR7287774,HOG1-as,Cocktail,YPD,5 ug/ml,Tunicamycin
+SRR7287775,HOG1-as,None,SDC,NA,None
+SRR7287778,IRE1-as,Cocktail,YPD,250 ug/ml,Fluconazole
+SRR7287779,IRE1-as,Cocktail,YPD,YPsorbitol (2.02%),Glucose_Dropout
+SRR7287781,IRE1-as,Cocktail,YPD,250 uM,Menadione
+SRR7287782,IRE1-as,None,YPD,NA,None
+SRR7287785,IRE1-as,Cocktail,YPD,0.5 M,Salt
+SRR7287787,KIN1-as,Cocktail,YPD,10mM,Azetidine
+SRR7287796,KIN1-as,None,SDC,NA,None
+SRR7287797,KIN1-as,Cocktail,SDC,NA,None
+SRR7287798,KSP1-as,Cocktail,YPD,10mM,Azetidine
+SRR7287803,KSP1-as,None,YPD,NA,None
+SRR7287809,KSP1-as,Cocktail,SDC,NA,None
+SRR7287810,KSS1-as,Cocktail,YPD,10mM,Azetidine
+SRR7287811,KSS1-as,Cocktail,YPD,250 ug/ml,Fluconazole
+SRR7287820,MRK1-as,Cocktail,YPD,10mM,Azetidine
+SRR7287822,MRK1-as,Cocktail,YPD,39 Degrees,Heatshock
+SRR7287823,MRK1-as,Cocktail,YPD,250 uM,Menadione
+SRR7287824,MRK1-as,None,YPD,NA,None
+SRR7287828,MRK1-as,Cocktail,YPD,5 ug/ml,Tunicamycin
+SRR7287834,PBS2-as,Cocktail,YPD,250 uM,Menadione
+SRR7287836,PBS2-as,Cocktail,YPD,NA,None
+SRR7287837,PBS2-as,Cocktail,YPD,1 ug/ml,Rapamycin
+SRR7287838,PBS2-as,Cocktail,YPD,0.5 M,Salt
+SRR7287839,PBS2-as,Cocktail,YPD,5 ug/ml,Tunicamycin
+SRR7287840,PBS2-as,None,SDC,NA,None
+SRR7287844,PHO85-as,Cocktail,YPD,39 Degrees,Heatshock
+SRR7287846,PHO85-as,None,YPD,NA,None
+SRR7287847,PHO85-as,Cocktail,YPD,NA,None
+SRR7287854,PKC1-as,Cocktail,YPD,250 ug/ml,Fluconazole
+SRR7287855,PKC1-as,Cocktail,YPD,YPsorbitol (2.02%),Glucose_Dropout
+SRR7287857,PKC1-as,Cocktail,YPD,250 uM,Menadione
+SRR7287862,PKC1-as,Cocktail,YPD,5 ug/ml,Tunicamycin
+SRR7287869,RIM11-as,None,YPD,NA,None
+SRR7287870,RIM11-as,Cocktail,YPD,NA,None
+SRR7287871,RIM11-as,Cocktail,YPD,1 ug/ml,Rapamycin
+SRR7287872,RIM11-as,Cocktail,YPD,0.5 M,Salt
+SRR7287880,RIM15-as,None,YPD,NA,None
+SRR7287881,RIM15-as,Cocktail,YPD,NA,None
+SRR7287891,SCH9-as,None,YPD,NA,None
+SRR7287894,SCH9-as,Cocktail,YPD,5 ug/ml,Tunicamycin
+SRR7287900,SLT2-as,Cocktail,YPD,250 uM,Menadione
+SRR7287903,SLT2-as,Cocktail,YPD,1 ug/ml,Rapamycin
+SRR7287904,SLT2-as,Cocktail,YPD,0.5 M,Salt
+SRR7287905,SLT2-as,Cocktail,YPD,5 ug/ml,Tunicamycin
+SRR7287906,SLT2-as,Cocktail,SDC,NA,None
+SRR7287907,SLT2-as,None,SDC,NA,None
+SRR7287911,SNF1-as,Cocktail,YPD,39 Degrees,Heatshock
+SRR7287914,SNF1-as,Cocktail,YPD,NA,None
+SRR7287915,SNF1-as,Cocktail,YPD,1 ug/ml,Rapamycin
+SRR7287916,SNF1-as,Cocktail,YPD,0.5 M,Salt
+SRR7287919,SNF1-as,None,SDC,NA,None
+SRR7287920,SSN3-as,Cocktail,YPD,10mM,Azetidine
+SRR7287921,SSN3-as,Cocktail,YPD,250 ug/ml,Fluconazole
+SRR7287924,SSN3-as,None,YPD,NA,None
+SRR7287927,SSN3-as,Cocktail,YPD,0.5 M,Salt
+SRR7287928,SSN3-as,Cocktail,YPD,5 ug/ml,Tunicamycin
+SRR7287931,STE11-as,Cocktail,YPD,10mM,Azetidine
+SRR7287934,STE11-as,Cocktail,YPD,39 Degrees,Heatshock
+SRR7287935,STE11-as,Cocktail,YPD,250 uM,Menadione
+SRR7287938,STE11-as,Cocktail,YPD,1 ug/ml,Rapamycin
+SRR7287942,STE11-as,None,SDC,NA,None
+SRR7287949,TOR2-as,Cocktail,YPD,NA,None
+SRR7287950,TOR2-as,Cocktail,YPD,1 ug/ml,Rapamycin
+SRR7287951,TOR2-as,Cocktail,YPD,5 ug/ml,Tunicamycin
+SRR7287953,TOR2-as,None,SDC,NA,None
+SRR7287954,TPK123-as,Cocktail,YPD,10mM,Azetidine
+SRR7287955,TPK123-as,Cocktail,YPD,250 ug/ml,Fluconazole
+SRR7287956,TPK123-as,Cocktail,YPD,39 Degrees,Heatshock
+SRR7287958,TPK123-as,None,YPD,NA,None
+SRR7287959,TPK123-as,Cocktail,YPD,NA,None
+SRR7287960,TPK123-as,Cocktail,YPD,1 ug/ml,Rapamycin
+SRR7287964,YAK1-as,Cocktail,YPD,10mM,Azetidine
+SRR7287968,YAK1-as,Cocktail,YPD,250 uM,Menadione
+SRR7287969,YAK1-as,None,YPD,NA,None
+SRR7287970,YAK1-as,Cocktail,YPD,NA,None
+SRR7287974,YAK1-as,None,SDC,NA,None
+SRR7287975,YGK3-as,Cocktail,YPD,10mM,Azetidine
+SRR7287977,YGK3-as,Cocktail,YPD,YPsorbitol (2.02%),Glucose_Dropout
+SRR7287980,YGK3-as,None,YPD,NA,None
+SRR7287982,YGK3-as,Cocktail,YPD,1 ug/ml,Rapamycin
+SRR7287984,YGK3-as,Cocktail,YPD,5 ug/ml,Tunicamycin
+SRR7287985,YGK3-as,None,SDC,NA,None
+SRR7287986,YGK3-as,Cocktail,SDC,NA,None
+SRR7287990,YPK1-as,Cocktail,YPD,39 Degrees,Heatshock
+SRR7287991,YPK1-as,Cocktail,YPD,250 uM,Menadione
+SRR7287993,YPK1-as,Cocktail,YPD,NA,None
+SRR7287997,YPK3-as,Cocktail,YPD,10mM,Azetidine
+SRR7287998,YPK3-as,Cocktail,YPD,250 ug/ml,Fluconazole
+SRR7288000,YPK3-as,Cocktail,YPD,39 Degrees,Heatshock
+SRR7288001,YPK3-as,Cocktail,YPD,250 uM,Menadione
+SRR7288002,YPK3-as,None,YPD,NA,None
+SRR7288003,YPK3-as,Cocktail,YPD,NA,None
+SRR7288004,YPK3-as,Cocktail,YPD,1 ug/ml,Rapamycin
