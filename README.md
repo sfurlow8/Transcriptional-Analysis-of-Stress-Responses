@@ -1,4 +1,4 @@
-# Transcriptonal Response Analysis
+# Transcriptonal Analysis of Stress Responses
 The files here were part of my research under Dr. William Kath at the NSF-Simons Center for Quantitative Biology. The research term was 3 months long, ending in August 2021.
 
 The goal of the project was to investigate multi-kinase control of environmental stress responsive transcription in yeast. What kinases transmit stress signals and what roles of theirs are contingent on the environment? My research sought to build on research presented in Mace PLOS 2020 that showed how kinases are involved in regulating genes in particular environments.
